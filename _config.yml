@@ -9,8 +9,8 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               info@
-tagline:             <a href="http://waterlooregion.org">waterlooregion.org</a>
+title:               info@waterlooregion.org
+tagline:             "Open Data and Open Source from the Social Planning Council"
 description:         "Open Data and Open Source from the Social Planning Council"
 url:                 http://info.waterlooregion.org
 baseurl:             /
