@@ -13,18 +13,6 @@
       </div>
       <div class="container content">
         {{ content }}
-        <div class="posts">
-          {% for post in site.posts %}
-          <div class="post">
-            <h2 class="post-title">
-              <a href="{{ post.repo }}">
-                {{ post.title }}
-              </a>
-            </h2>
-            {{ post.content }}
-          </div>
-          {% endfor %}
-        </div>
       </div>
     </div>
   </body>
