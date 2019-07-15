@@ -10,8 +10,8 @@ relative_permalinks: true
 
 # Setup
 title:               info@waterlooregion.org
-tagline:             "Open Data and Open Source from the Social Planning Council"
-description:         "Open Data and Open Source from the Social Planning Council"
+tagline:             "Open Data and Open Source from the Social Development Centre"
+description:         "Open Data and Open Source from the Social Development Centre"
 url:                 http://info.waterlooregion.org
 baseurl:             /
 paginate:            5
